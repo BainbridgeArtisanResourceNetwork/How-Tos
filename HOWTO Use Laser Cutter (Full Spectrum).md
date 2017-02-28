@@ -2,7 +2,10 @@
 ![BARN ETA](ref/BARN-ETA-Header.png)
 # HOWTO Use Laser Cutter (Full Spectrum)
 
-Follow this checklist every time you use the laser cutter
+Follow this checklist every time you use the laser cutter.  You must record your time on the time-sheet each time you use the laser cutter.
+
+
+Note: You must be checked-out on the laser cutter by a member of the ETA steering committee before using the device.
 
 ## Setup Laser
 

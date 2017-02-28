@@ -7,6 +7,9 @@ Print projects typically take one or more hours to complete.  Please be consider
 
 (TBD - comment on use of material - must you supply your own?)
 
+
+Note: You must be checked-out on the printer by a member of the ETA steering committee before using the device.
+
 ## Required
 
 - 3D model in .stl format.  Typically created by Cura or downloaded from web sites such as Thingiverse
@@ -17,8 +20,7 @@ Print projects typically take one or more hours to complete.  Please be consider
 
 1. **Turn power on** with rocker switch on back of unit.
 - **Mount SD card** containing .stl file to be printed.
-- **Remove current spool** if different materials required.   
-Ctl Panel: Press top right selection until MATERIAL displays.  
+- **Remove current spool** if different materials required. Ctl Panel: Press top right selection until MATERIAL displays.  
 - **Mount materials spool** on back of printer with material feeding from bottom of spool toward feed tube. Be carefull that material is free to feed and is not wrapped underneath another strand of material on the spool.  
 - **Insert filament** into the bottom of the feeder and push it until it is grabbed by the feeder. Material will automatically feed through tube to print head - lightly hold material to feel if it is feeding.  
 - **Allow small stream of material to feed from nozzle** when the material has fully advanced.  When previous color of material has been replaced by selected color stop.
