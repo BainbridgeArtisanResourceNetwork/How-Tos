@@ -57,5 +57,5 @@ When finished with laser cutter be sure to fully
 ## References
 
 - [Full Spectrum Materials](https://fslaser.com/Applications/)
-- [10 Tips & Tricks](http://www.instructables.com/id/10-Tips-and-Tricks-for-Laser-Engraving-and-Cutting/)
+- [10 Tips & Tricks for Cutting & Engraving](http://www.instructables.com/id/10-Tips-and-Tricks-for-Laser-Engraving-and-Cutting/)
 - [Inkscape: Download and Docs](https://inkscape.org/en/)
