@@ -1,7 +1,6 @@
 <link href = "ref/_barn.css" rel="stylesheet" type="text/css" />
 ![BARN ETA](ref/BARN-ETA-Header.png)
 # HOWTO: Use 3D Printer (Ultimaker 2+)
-##### Last Update: Feb 26, 2017
 
 ## Required
 
@@ -23,15 +22,15 @@ Ctl Panel: Press top right selection until MATERIAL displays.
 ## Control Panel
 
 ![](ref/Ultimaker-panel.png)
-### Print
+#### Print
 
 The “Print” menu allows you to select one of the print files from the SD card. Press the button to start the print.
 
-### Material
+#### Material
 
 In the “Material” menu, you can either change the filament on your Ultimaker 2+ or change the settings of material profiles. When selecting “Change”, the Ultimaker 2+ will start the procedure as described in the “Bed leveling” section. In the “Settings” menu you can select material profiles and change their settings in the “Customize” menu.
 
-### Maintenance
+#### Maintenance
 
 The “Maintenance” menu offers various options. By selecting “Build plate” you will be guided through the bed leveling steps. In the “Advanced” menu, several options can be selected in order to perform certain actions manually or change machine settings. These are the options:
 
@@ -49,7 +48,7 @@ The “Maintenance” menu offers various options. By selecting “Build plate�
 - Runtime stats: Shows for how much time the Ultimaker 2+ has been on and printing.
 - Factory reset: A complete reset of your Ultimaker 2+ through which you can completely recalibrate it.
 
-### Fine-tuning
+#### Fine-tuning
 
 You can fine-tune the settings during the printing process. This allows you to get full control over the printing process and helps you achieving the best print results. You can do this by accessing the “Tune” menu during printing. The “Tune” menu basically shows you the same settings as in the “Advanced” menu, which means that you can change settings such as the temperature and speed of printing. Furthermore, it is possible to select “Pause”, after which you can change the filament in the middle of a print and resume again.
 

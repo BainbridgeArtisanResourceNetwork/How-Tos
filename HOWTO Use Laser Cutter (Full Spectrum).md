@@ -1,7 +1,6 @@
 
 ![BARN ETA](ref/BARN-ETA-Header.png)
 # HOWTO Use Laser Cutter (Full Spectrum)
-##### Last Update: Feb 26, 2017
 
 Follow this checklist every time you use the laser cutter
 
@@ -34,7 +33,26 @@ Follow this checklist every time you use the laser cutter
 - Press the 'Extents' button to ensure design will fit on material.
 - Press Go.
 
+## Shutdown Laser Cutter
+
+When finished with laser cutter be sure to fully 
+
+## Detailed Procedures
+
+#### Create test sample
+
+(TBD)
+
+#### Setup _RetinaEngrave3D_ for cutting
+
+(TBD)
+
+#### Setup _RetinaEngrave3D_ for etching
+
+(TBD)
+
 ## References
 
 - [Full Spectrum Materials](https://fslaser.com/Applications/)
 - [10 Tips & Tricks](http://www.instructables.com/id/10-Tips-and-Tricks-for-Laser-Engraving-and-Cutting/)
+- [Inkscape: Download and Docs](https://inkscape.org/en/)

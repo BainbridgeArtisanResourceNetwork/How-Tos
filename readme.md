@@ -1,7 +1,6 @@
 <link href = "ref/_barn.css" rel="stylesheet" type="text/css" />
 ![BARN ETA](ref/BARN-ETA-Header.png)
 # Read Me
-##### Updated: Feb 27, 2017
 
 This GitHub repository is for information about the ETA studio's equipment and procedures.
 
@@ -13,5 +12,5 @@ This GitHub repository is for information about the ETA studio's equipment and p
 - [GitHub: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [MarkDown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-### Equipment Guides
-- [Ultimaker Manual](https://ultimaker.com/en/resources/manuals)
+### Studio Procedures
+- (TBD)
