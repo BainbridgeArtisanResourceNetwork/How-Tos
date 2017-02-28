@@ -38,7 +38,7 @@ Note: You must be checked-out on the laser cutter by a member of the ETA steerin
 
 ## Shutdown Laser Cutter
 
-When finished with laser cutter be sure to fully 
+When finished with laser cutter be sure to fully ... (TBD)
 
 ## Detailed Procedures
 
