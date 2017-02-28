@@ -1,9 +1,9 @@
-
+<link href = "ref/_barn.css" rel="stylesheet" type="text/css" />
 ![BARN ETA](ref/BARN-ETA-Header.png)
 # Read Me
-##### Last Update: Feb 27, 2017
+##### Updated: Feb 27, 2017
 
-This GitHub repository for information about the ETA studio's equipment and procedures.
+This GitHub repository is for information about the ETA studio's equipment and procedures.
 
 ## General References
 
