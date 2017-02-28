@@ -2,6 +2,11 @@
 ![BARN ETA](ref/BARN-ETA-Header.png)
 # HOWTO: Use 3D Printer (Ultimaker 2+)
 
+Print projects typically take one or more hours to complete.  Please be considerate of others also wanting to use the printer.  
+
+
+(TBD - comment on use of material - must you supply your own?)
+
 ## Required
 
 - 3D model in .stl format.  Typically created by Cura or downloaded from web sites such as Thingiverse
