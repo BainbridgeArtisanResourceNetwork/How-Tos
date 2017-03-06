@@ -23,4 +23,4 @@ General comments, cautions and courtesies on use of xxx
 
 ## References
 
-- [Really Good Info](http://www.xxx.com/reference)
+- [Really Good Info](http://www......com/)
