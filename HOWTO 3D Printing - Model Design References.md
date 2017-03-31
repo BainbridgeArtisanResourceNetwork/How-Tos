@@ -6,7 +6,7 @@
 
 ## Overview of 3d Printing
 
-![3D Workflow](ref/3D Print Workflow.png)
+![3D Workflow](ref/3D Print Workflow.png)  
 
 The __.stl__ (StereoLithography) file format is a typical output of the design process though each design app uses different file formats within the design project.  "STL files describe only the surface geometry of a three-dimensional object without any representation of color, texture or other common CAD model attributes.", Wikipedia
 
