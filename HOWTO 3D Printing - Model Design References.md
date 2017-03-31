@@ -61,7 +61,7 @@ After loading a model and selecting the settings, Cura will report on the overal
 
 While using the default settings is successful for most prints, it is best to review the [Cura Tutorial (all3dp.com)](https://all3dp.com/cura-tutorial-3d-printing/) for more extensive understanding of its use.
 
-
+![Cura Application](ref/Cura-panel.png)
 
 
 ## Print Fails
