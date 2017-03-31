@@ -1,5 +1,4 @@
-<link href = "ref/_barn.css" rel="stylesheet" type="text/css" />
-![BARN ETA](ref/BARN-ETA-Header.png)
+![BARN ETA](ref/BARN-ETA-Header.png)  
 
 # HOWTO: 3D Printing - Using Ultimaker 2+
 
