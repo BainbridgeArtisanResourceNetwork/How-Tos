@@ -57,7 +57,11 @@ For the Ultimaker, you set:
 - The printing Profile - Fast Print, Normal Quality, High Quality.  While affecting quality, it significantly affects the print time.
 - The general Print Setup profile to use - Recommended, Custom.  The Recommended profile is usually appropriate.
 
+After loading a model and selecting the settings, Cura will report on the overall dimensions of the model and the time to print it.
+
 While using the default settings is successful for most prints, it is best to review the [Cura Tutorial (all3dp.com)](https://all3dp.com/cura-tutorial-3d-printing/) for more extensive understanding of its use.
+
+
 
 
 ## Print Fails
