@@ -1,5 +1,6 @@
 ![BARN ETA](ref/BARN-ETA-Header.png)
 <link href = "ref/_barn.css" rel="stylesheet" type="text/css" />
+
 # Read Me
 
 This GitHub repository is for information about the ETA studio's equipment and procedures.
@@ -14,3 +15,7 @@ This GitHub repository is for information about the ETA studio's equipment and p
 
 ### Studio Procedures
 - [BARN ETA Studio](https://bainbridgebarn.org/studios/electronic-and-technical-arts/)
+
+### 3D Printer Usage and Troubleshooting
+- [Visual Guide to 3D printer problems](https://support.3dverkstan.se/article/23-a-visual-ultimaker-troubleshooting-guide}
+- [Prusa Knowledgebase - Tips and Techniques](https://help.prusa3d.com/l/en/category/cO74WGHTlH-printing)
