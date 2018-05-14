@@ -1,5 +1,5 @@
-<link href = "ref/_barn.css" rel="stylesheet" type="text/css" />
 ![BARN ETA](ref/BARN-ETA-Header.png)
+<link href = "ref/_barn.css" rel="stylesheet" type="text/css" />
 # Read Me
 
 This GitHub repository is for information about the ETA studio's equipment and procedures.
@@ -13,4 +13,4 @@ This GitHub repository is for information about the ETA studio's equipment and p
 - [MarkDown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### Studio Procedures
-- (TBD)
+- [BARN ETA Studio](https://bainbridgebarn.org/studios/electronic-and-technical-arts/)
