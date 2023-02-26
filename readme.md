@@ -19,3 +19,4 @@ This GitHub repository is for information about the ETA studio's equipment and p
 ### 3D Printer Usage and Troubleshooting
 - [Prusa Knowledgebase - Tips and Techniques](https://help.prusa3d.com/l/en/category/cO74WGHTlH-printing)
 - [Visual Guide to 3D printer problems](https://support.3dverkstan.se/article/23-a-visual-ultimaker-troubleshooting-guide)
+- [3D Printing Orientation Links](https://rgordon.github.io/3d-printing-orientation/)
