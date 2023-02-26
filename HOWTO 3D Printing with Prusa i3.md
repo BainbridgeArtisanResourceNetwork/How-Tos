@@ -41,8 +41,7 @@ Some brands we've liked:
 
   - Start with a clean prepared bed for your material
   - Do not swap the steel sheet with another printer 
-     - Each printer is calibrated for its sheet and that is saved in a profile
-       It can be recalibrated for a different sheet and the settings stored 
+     - Each printer is calibrated for its current sheet and that is saved in a profile for that sheet. 
   - Do not adjust Z-height settings w/o recording it in the log
      - But really ask why you need to do this in the first place?
      - (see Troubleshooting tips below)
