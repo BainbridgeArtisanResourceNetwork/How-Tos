@@ -52,7 +52,8 @@ Some brands we've liked:
 
   - Smooth - good for PLA, sometimes too sticky for PETG
   - Textured - good for PETG, okay for PLA
-  - Both - TPU but use glue stick for ease of removal
+  - Satin - good for all (use glue stick with PC)
+  - All - for TPU use glue stick for ease of removal
 
 ### Cleaning Tips
 
@@ -63,6 +64,8 @@ Some brands we've liked:
         - Especially on smooth sheets!
      - Can use dish soap and water but must immediately dry
        - Sparingly on textured sheets
+  - never use acetone on non-smooth sheets
+     - and even then only sparingly
 
 ## Troubleshooting
 
