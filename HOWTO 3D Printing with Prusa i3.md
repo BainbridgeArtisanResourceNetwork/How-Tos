@@ -23,7 +23,7 @@ It should be stored in a dry location.
 For further info, consult [Prusa Materials Guides](https://help.prusa3d.com/category/material-guide_220)
 
 Some brands we've liked:
-  - Hatchbox, eSun, Prusa, tty3D, 3DSoluTech, ZyTech, Matterhackers, Protopasta, AmazonBasics (sometimes)
+  - Hatchbox, eSun, Prusa, tty3D, 3DSoluTech, Polymaker, Matterhackers, Protopasta, AmazonBasics (sometimes)
 
 ## Current Printer Logistics
 
