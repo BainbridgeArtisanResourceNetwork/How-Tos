@@ -5,6 +5,9 @@
 
 This GitHub repository is for information about the ETA studio's equipment and procedures.
 
+## NOTE 
+This page has many references to the Electronic and Technical Arts Studio - the earlier name for what is now called Tech Lab. They need to be updated appropriately.
+
 ## General References
 
 ### Using GitHub
@@ -12,6 +15,7 @@ This GitHub repository is for information about the ETA studio's equipment and p
 - [GitHub: "Hello World" Getting started with GitHub](https://guides.github.com/activities/hello-world/)
 - [GitHub: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [MarkDown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Marpit: Markdown slide deck framework](https://marpit.marp.app)
 
 ### Studio Procedures
 - [BARN ETA Studio](https://bainbridgebarn.org/studios/electronic-and-technical-arts/)
