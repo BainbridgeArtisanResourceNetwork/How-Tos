@@ -1,5 +1,8 @@
 ![BARN ETA](ref/BARN-ETA-Header.png)  
 
+# Note
+We no longer have an Ultimaker in the lab, but left this here for the moment.
+
 # HOWTO: 3D Printing - Using Ultimaker 2+
 
 __Use of printer.__
