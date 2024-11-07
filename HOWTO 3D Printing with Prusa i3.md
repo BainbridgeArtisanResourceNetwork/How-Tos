@@ -1,30 +1,43 @@
+---
+marp: true
+paginate: true
+---
+<!-- header: Prusa Printer Usage Notes-->
 
-# Prusa i3 Printer Usage Notes
+# Prusa Printer Usage Notes
+Some general notes and tips about using the Prusa printers.
 
-Some general notes and tips about using the Prusa i3 printers.
-
+---
 ## Filaments
 
-Prusa printers use 1.75mm diameter filament.
-It should be kept tightly wound on the spool. 
-It should be stored in a dry location.
+Things to remember about printer filaments:
+ - Prusa printers use 1.75mm diameter filament.
+ - It should be kept tightly wound on the spool. 
+ - It should be stored in a dry location.
 
+---
 ### Main Filament Types
-
   - PLA - easy to print, hard, lower-temperature, corn-starch based
   - PETG - good for mechanical parts, less brittle, can be a little stringy
   - TPU - flexible, sticks too well to beds so **use glue stick** 
+
+### Secondary Filament Types
   - Phosphorescent - abrasive on brass nozzle, use on hardened-nozzle printer
   - ABS/ASA - strong, higher temperature, but needs ventilation and slower cooling
   - Wood-filled: use only Hatchbox brand on 0.4mm nozzles, prefer hardened-nozzle.
   - Carbon Fiber-filled: very abrasive on nozzle, use on hardened-nozzle printer.
   - Nylon: use satin sheet beds at this time with glue interface
 
+---
+### Further Information
+
 For further info, consult [Prusa Materials Guides](https://help.prusa3d.com/category/material-guide_220)
 
 Some brands we've liked:
   - Hatchbox, eSun, Prusa, tty3D, 3DSoluTech, Polymaker, Matterhackers, Protopasta, AmazonBasics (sometimes)
 
+
+---
 ## Current Printer Logistics
 
   - Come in during Open Studio time
@@ -37,6 +50,8 @@ Some brands we've liked:
     - Or convince someone to watch it for you
   - Leave a card with your name and contact info
 
+
+---
 ### Caveats
 
   - Start with a clean prepared bed for your material
@@ -47,8 +62,13 @@ Some brands we've liked:
      - But really ask why you need to do this in the first place?
      - (see Troubleshooting tips below)
 
+---
+<!-- header: Printer Bed Sheets -->
 ## Printer Bed Sheets 
 
+Care and maintenance of print bed sheets
+
+---
 ### Bed Sheet Usage Tips
 
   - Smooth - good for PLA, usually too sticky for PETG
@@ -57,6 +77,7 @@ Some brands we've liked:
   - Satin - good for all (use glue stick with PC or PA)
   - All - for TPU use glue stick for ease of removal
 
+---
 ### Cleaning Tips
 
   - Avoid fingerprints and other greases
@@ -69,6 +90,7 @@ Some brands we've liked:
   - never use acetone on non-smooth sheets
      - and even then only sparingly
 
+---
 ## Troubleshooting
 
   - If a job fails - change something before trying it again.
@@ -80,9 +102,14 @@ Some brands we've liked:
       - increase bed temperature by 5°C
       - is it old filament?
       - is the filament coming off the spool correctly?
-     
+
+---
+<!-- header: Printer Use Checklists --> 
 # Checklists
 
+Things to remember when using the printers
+
+---
 ## Removing a print job
 
   -  remove printed parts carefully when bed has cooled, set aside.
@@ -90,6 +117,7 @@ Some brands we've liked:
   -  thread end of filament through holes in spool to keep it wound
   -  place part, filament, and user's card (if any) on the shelf by the window
  
+---
 ## Starting a print job
 
   - ensure printer sheet is clean, and ready for printing
