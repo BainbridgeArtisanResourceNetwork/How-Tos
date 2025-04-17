@@ -1,9 +1,24 @@
 ![BARN ETA](ref/BARN-ETA-Header.png)
-# HOWTO List of Favorite Filaments
+# List of Favorite and Specialty Filaments
 
-This is a list of filaments in favor at the moment.
+This is a list of filaments which some BARN members have had good experiences with, and also some of the more advanced specialty filaments. There are some companies that provide both, and you'll find an entry in each list.
 
-Last Update 2025-04-16
+Last Update 2025-04-17
+
+## Standard Filament Types
+A short list of brands that have worked well in the recent past. This covers PLA, PETG, and TPU. Note that brands come and go, but these have been pretty consistent. They can be sold from a variety of places online.
+
+- [eSUN](https://esun3dstore.com)
+- [Hatchbox](https://www.hatchbox3d.com)
+- [Ninjatek](https://ninjatek.com/)
+- [Polymaker](https://polymaker.com/)
+- [Printed Solid](https://www.printedsolid.com)
+- [Protopasta](http://proto-pasta.com/)
+- [Prusa3D](https://www.prusa3d.com)
+
+## Specialty Filaments
+
+This is a longer list, detailing specialty filaments - more exotic materials with properties that lend themselves to specific applications. These are not necessarily "easy to print" filaments. 
 
   - [3dxtech](https://www.3dxtech.com/)
     - Various high temp, high performance, etc.
@@ -74,7 +89,7 @@ Last Update 2025-04-16
   - [Printed Solid](https://www.printedsolid.com)
     - US distributor for Prusa3D, ship from US
     - most filaments have standard profiles in PrusaSlicer
-    - Jessie brand filaments, competent material, and good color selection
+    - Jessie brand filaments, consistent material, and good color selection
     - Prusament brand filaments, made in US, in 1Kg and 2Kg spools
     - 3DX Tech Advanced Materials including:
       - PPS (Polyphenylene Sulfide), PSU, PPSU, Carbon Fiber PEKK-A (PolyEtherKetoneKetone), CarbonX PA6+CF
