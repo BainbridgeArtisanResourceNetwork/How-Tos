@@ -39,10 +39,7 @@ Last Update 2025-04-16
 
   - [Filamatrix](https://filamatrix.com/)
     - Kevlar filled Nylon
-    - Gizmo Dorks
-    - High temperature PC (seems more pure, less additives, but hard to print)
-    - Polyoxymethylene (POM/Acetal/Delrin) filament
-
+  
   - [Gizmo Dorks](https://gizmodorks.com/)
     - High temperature PC (seems more pure, less additives, but hard to print)
     - Polyoxymethylene (POM/Acetal/Delrin) filament
