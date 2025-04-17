@@ -17,8 +17,9 @@ This page has many references to the Electronic and Technical Arts Studio - the 
 - [MarkDown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Marpit: Markdown slide deck framework](https://marpit.marp.app)
 
-### Studio Procedures
-- [BARN ETA Studio](https://bainbridgebarn.org/studios/electronic-and-technical-arts/)
+### Studio Info
+- [BARN Tech Lab](https://bainbridgebarn.org/studios/techlab/)
+
 
 ### 3D Printer Usage and Troubleshooting
 - [Local Favorite 3D Printing Filaments](./HOWTO%20Favorite%20Filaments%20for%203D%20Printing.md)
