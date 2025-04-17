@@ -3,10 +3,9 @@
 
 # Read Me
 
-This GitHub repository is for information about the ETA studio's equipment and procedures.
-
+This GitHub repository is for information about the Tech Lab's equipment and procedures. 
 ## NOTE 
-This page has many references to the Electronic and Technical Arts Studio - the earlier name for what is now called Tech Lab. They need to be updated appropriately.
+_This page has  references to the Electronic and Technical Arts Studio - the earlier name for what is now called Tech Lab. They need to be updated appropriately._
 
 ## General References
 
