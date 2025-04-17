@@ -21,7 +21,7 @@ _This page has  references to the Electronic and Technical Arts Studio - the ear
 
 
 ### 3D Printer Usage and Troubleshooting
-- [Local Favorite 3D Printing Filaments](./HOWTO%20Favorite%20Filaments%20for%203D%20Printing.md)
+- [Filaments for 3D Printing](./Filaments%20for%203D%20Printing.md)
 - [Prusa Knowledgebase - Tips and Techniques](https://help.prusa3d.com/l/en/category/cO74WGHTlH-printing)
 - [Visual Guide to 3D printer problems](https://support.3dverkstan.se/article/23-a-visual-ultimaker-troubleshooting-guide)
 - [3D Printing Orientation Links](https://rgordon.github.io/3d-printing-orientation/)
