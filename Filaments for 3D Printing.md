@@ -1,7 +1,7 @@
 ![BARN ETA](ref/BARN-ETA-Header.png)
 # List of Favorite and Specialty Filaments
 
-This is a list of filaments which some BARN members have had good experiences with, and also some of the more advanced specialty filaments. There are some companies that provide both, and you'll find an entry in each list.
+This is a list of filament brands which some BARN members have had good experiences with, and also a list of some of the more advanced specialty filaments. There are some companies that provide both, and you'll find an entry in each list.
 
 Last Update 2025-04-17
 
@@ -59,6 +59,9 @@ This is a longer list, detailing specialty filaments - more exotic materials wit
   - [Gizmo Dorks](https://gizmodorks.com/)
     - High temperature PC (seems more pure, less additives, but hard to print)
     - Polyoxymethylene (POM/Acetal/Delrin) filament
+   
+  - [Hatchbox](https://www.hatchbox3d.com)
+    - wood-filled PLA that does not clog 0.4mm nozzles
 
   - [Matterhackers](https://www.matterhackers.com/)
     - NylonK is a Kevlar filled nylon
@@ -92,7 +95,7 @@ This is a longer list, detailing specialty filaments - more exotic materials wit
     - Jessie brand filaments, consistent material, and good color selection
     - Prusament brand filaments, made in US, in 1Kg and 2Kg spools
     - 3DX Tech Advanced Materials including:
-      - PPS (Polyphenylene Sulfide), PSU, PPSU, Carbon Fiber PEKK-A (PolyEtherKetoneKetone), CarbonX PA6+CF
+      - PPS (Polyphenylene Sulfide), PSU, PPSU, CarbonX PA6+CF
 
   - [Protopasta](http://proto-pasta.com/)
     - filaments filled with various metals, the idea being you can get a metal patina (like rust) on your printed part.
@@ -100,7 +103,7 @@ This is a longer list, detailing specialty filaments - more exotic materials wit
   - [Prusa3D](https://www.prusa3d.com)
     - many standard and specialty filaments
     - most filaments have standard profiles in PrusaSlicer
-    - ship from EU so compare with Printed Solid
+    - ships from EU so compare with Printed Solid
 
   - [Push Plastics](https://www.pushplastic.com/)
     - 98A TPU
