@@ -3,6 +3,7 @@ marp: true
 paginate: true
 ---
 <!-- header: Prusa Printer Usage Notes-->
+![BARN Tech Lab](../ref/BARN-TechLab-Header.png)
 
 # Prusa Printer Usage Notes
 Some general notes and tips about using the Prusa printers.

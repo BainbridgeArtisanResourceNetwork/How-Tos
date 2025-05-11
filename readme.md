@@ -1,5 +1,5 @@
-![BARN ETA](ref/BARN-ETA-Header.png)
-<link href = "ref/_barn.css" rel="stylesheet" type="text/css" />
+![BARN ETA](../ref/BARN-ETA-Header.png)
+<link href = "../ref/_barn.css" rel="stylesheet" type="text/css" />
 
 # Read Me
 
