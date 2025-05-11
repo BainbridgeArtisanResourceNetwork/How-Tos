@@ -1,5 +1,5 @@
 
-![BARN ETA](../ref/BARN-ETA-Header.png)
+![BARN Tech Lab](../ref/BARN-TechLab-Header.png)
 # HOWTO Use Multimeter
 
 
