@@ -1,5 +1,5 @@
 
-![BARN ETA](ref/BARN-ETA-Header.png)
+![BARN ETA](../ref/BARN-ETA-Header.png)
 # HOWTO xxxx
 
 General comments, cautions and courtesies on use of xxx

@@ -1,6 +1,6 @@
 
-![BARN ETA](ref/BARN-ETA-Header.png)
+![BARN ETA](../ref/BARN-ETA-Header.png)
 # HOWTO Solder
 
-![Solder Graphic](ref/How_To_Solder.png)
+![Solder Graphic](../ref/How_To_Solder.png)
 

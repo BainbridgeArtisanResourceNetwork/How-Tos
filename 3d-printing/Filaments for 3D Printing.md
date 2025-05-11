@@ -1,4 +1,4 @@
-![BARN ETA](ref/BARN-ETA-Header.png)
+![BARN ETA](../ref/BARN-ETA-Header.png)
 # List of Favorite and Specialty Filaments
 
 This is a list of filament brands which some BARN members have had good experiences with, and also a list of some of the more advanced specialty filaments. There are some companies that provide both, and you'll find an entry in each list.
