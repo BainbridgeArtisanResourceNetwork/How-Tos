@@ -16,8 +16,6 @@ If you have questions, or need further assistance, please ask the Studio Monitor
 Happy Printing!
 
 ---
-![BARN Tech Lab](../ref/BARN-TechLab-Header.png)
-
 ## Model Preparation
 
 - Was the model oriented correctly for printing?   
@@ -29,8 +27,6 @@ Happy Printing!
    - only the enclosed printer should be using ASA, ABS, PC, or abrasives.
 
 ---
-![BARN Tech Lab](../ref/BARN-TechLab-Header.png)
-
 ## Filament Preparation
 
 -  is the filament correct diameter? Must be 1.75mm
@@ -40,7 +36,6 @@ Happy Printing!
 -  Cut filament at an angle to make loading easier
 
 ---
-![BARN Tech Lab](../ref/BARN-TechLab-Header.png)
 
 ## Printer Preparation
 
@@ -53,8 +48,6 @@ Happy Printing!
 -  after loading filament, is it flowing cleanly?
 
 ---
-![BARN Tech Lab](../ref/BARN-TechLab-Header.png)
-
 ## Job Start
 
 After starting the job, make sure to check these items:
