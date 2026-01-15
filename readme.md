@@ -25,3 +25,26 @@ _This page has  references to the Electronic and Technical Arts Studio - the ear
 - [Prusa Knowledgebase - Tips and Techniques](https://help.prusa3d.com/l/en/category/cO74WGHTlH-printing)
 - [Visual Guide to 3D printer problems](https://support.3dverkstan.se/article/23-a-visual-ultimaker-troubleshooting-guide)
 - [3D Printing Orientation Links](https://rgordon.github.io/3d-printing-orientation/)
+
+# Converting files to PDF
+There are several ways to convert the files to PDF depending upon the host. (TODO build a GitHub Action that automates this.)
+
+## For whole files, not slide decks:
+
+### on MacOS CLI:
+- brew install pandoc
+- brew install --cask mactex
+- pandoc "3d-printing/<filename>>.md" -o "3d-printing/<filename>.pdf" --pdf-engine=xelatex -V geometry:margin=1in -V fontsize=11pt
+
+### in VSCode:
+- install Markdown - PDF extension
+- Cmd-Shift-P -> Markdown PDF: Export (pdf)
+
+## For slide decks:
+### on MacOS CLI:
+- brew install marp
+- marp --pdf <filename> 
+
+### in VSCode:
+- install Marp Extension
+- Cmd-Shift-P -> Marp : Export Slide Deck ...
