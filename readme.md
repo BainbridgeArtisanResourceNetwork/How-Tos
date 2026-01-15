@@ -27,23 +27,29 @@ _This page has  references to the Electronic and Technical Arts Studio - the ear
 - [3D Printing Orientation Links](https://rgordon.github.io/3d-printing-orientation/)
 
 # Converting files to PDF
-There are several ways to convert the files to PDF depending upon the host. (TODO build a GitHub Action that automates this.)
+
+There are several ways to convert the files to PDF depending upon the host. Here are a couple.
+ - (TODO build a GitHub Action that automates this.)
 
 ## For whole files, not slide decks:
 
 ### on MacOS CLI:
 - brew install pandoc
 - brew install --cask mactex
-- pandoc "3d-printing/<filename>>.md" -o "3d-printing/<filename>.pdf" --pdf-engine=xelatex -V geometry:margin=1in -V fontsize=11pt
+- pandoc "directory/filename.md" -o "directory/filename.pdf" --pdf-engine=xelatex -V geometry:margin=1in -V fontsize=11pt
 
 ### in VSCode:
 - install Markdown - PDF extension
 - Cmd-Shift-P -> Markdown PDF: Export (pdf)
 
 ## For slide decks:
+
+Assuming a .md file that has been suitable prepared with marp headers. Expect some iteration as you determine how much content
+can fit onto a slide.
+
 ### on MacOS CLI:
 - brew install marp
-- marp --pdf <filename> 
+- marp --pdf "filename" 
 
 ### in VSCode:
 - install Marp Extension
