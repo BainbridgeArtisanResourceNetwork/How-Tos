@@ -1,4 +1,4 @@
-![BARN Tech Lab](../ref/BARN-TechLab-Header.png)
+![BARN Tech Lab](./ref/BARN-TechLab-Header.png)
 
 # List of Favorite and Specialty Filaments
 
